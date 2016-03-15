@@ -1,0 +1,31 @@
+1.	What are the 4 modifiers and what are diff of them
+2.	What is the diff of static and final
+3.	What is abstract class and method and how to use it
+4.	Explain MVC pattern
+
+Simplify this code into 1 line
+
+Public boolean isEquals(){
+
+If(a.equals”H”){
+     Return true;
+     }
+Else{
+     Return false;
+    }
+}
+
+What is the output of this syntax?
+
+String a = “H”;
+a.concat(“B”);
+sysout(a);
+
+Then magreview pa po kayo ng madami sa java fundamentatals and tools na ginagamit niyo like:
+
+1.	What is Java and what makes it special to the other programming languages?
+2.	What is Spring Framework?
+3.	What is hibernate?
+4.	What is MVC pattern?
+5.	What is Ant?
+6.	What is Maven?
